@@ -1,0 +1,8 @@
+public class GreatCircle {
+  
+  public GreatCircle() {
+  }
+  
+  public static void main(java.lang.String[] arg0) {
+  }
+}
