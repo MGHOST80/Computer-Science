@@ -1,0 +1,8 @@
+ public class CMYKtoRGB {
+  
+  public CMYKtoRGB() {
+  }
+  
+  public static void main(java.lang.String[] arg0) {
+  }
+}
